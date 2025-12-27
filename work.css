@@ -1,0 +1,28 @@
+h1{
+    color:yellowgreen;
+    font-size:60px;
+}
+h2{
+    color:brown;
+    font-size:70px;
+}
+p{
+    color:purple;
+    font-size:30px;
+}
+img{
+    width:400px;height:500px;
+}
+body{
+    background-color:rgb(226, 207, 250);
+}
+.image{
+display:flex;
+height:95vh;
+width:80vw;
+border:2px solid yellow;
+justify-content:center;
+align-items:center;
+margin:2vw;
+padding:8vw;
+}
